@@ -18,9 +18,6 @@ import fb_icon from '../../assets/fb_icon.png';
 import mail_icon from '../../assets/mail_icon.png';
 
 export default function Home() {
-  const handleMailClick = () => {
-    window.location.href = `mailto:han@webglsoft.com`;
-  };
   return (
     <div
       style={{
