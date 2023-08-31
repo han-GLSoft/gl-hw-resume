@@ -1,0 +1,13 @@
+.block {
+  border-radius: 20px;
+  opacity: 0;
+  border: 2px solid #0057b880;
+  transform: translateX(-100px);
+  transition: opacity 0.5s, transform 0.8s;
+  padding: 0 30px 0 30px;
+}
+
+.block.visible {
+  opacity: 1;
+  transform: translateX(0);
+}
