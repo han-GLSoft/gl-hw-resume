@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/gl-hw-resume/static/css/main.13c3995a.css",
+    "main.js": "/gl-hw-resume/static/js/main.cbf51464.js",
+    "static/js/787.3b772499.chunk.js": "/gl-hw-resume/static/js/787.3b772499.chunk.js",
+    "static/media/avatar.jpg": "/gl-hw-resume/static/media/avatar.330892fdf0c5c43659f7.jpg",
+    "static/media/python_icon.png": "/gl-hw-resume/static/media/python_icon.dea924d737bb84eb9ce3.png",
+    "static/media/js_icon.png": "/gl-hw-resume/static/media/js_icon.95ab7237a202b1aa18d2.png",
+    "static/media/rn_icon.png": "/gl-hw-resume/static/media/rn_icon.4be4917062671cccf94e.png",
+    "static/media/angular_icon.png": "/gl-hw-resume/static/media/angular_icon.7edd5ac4302bfea21583.png",
+    "static/media/gl_bg.jpg": "/gl-hw-resume/static/media/gl_bg.a5655fbadb46e4934775.jpg",
+    "static/media/ig_icon.png": "/gl-hw-resume/static/media/ig_icon.79535458a8a6d88f81d4.png",
+    "static/media/react_icon.png": "/gl-hw-resume/static/media/react_icon.495c3fe5bf25222e271f.png",
+    "static/media/html_icon.png": "/gl-hw-resume/static/media/html_icon.a92a549a591f4acb527a.png",
+    "static/media/css_icon.png": "/gl-hw-resume/static/media/css_icon.02d225c7df0b28341d8d.png",
+    "static/media/gcp_icon.png": "/gl-hw-resume/static/media/gcp_icon.837d0e2bd43ee2e946fb.png",
+    "static/media/mail_icon.png": "/gl-hw-resume/static/media/mail_icon.7f0432c3a7d36f687c69.png",
+    "static/media/sap_icon.png": "/gl-hw-resume/static/media/sap_icon.a63efdc07e55d5b621bb.png",
+    "static/media/fb_icon.png": "/gl-hw-resume/static/media/fb_icon.49e67d43221b6bb1aa86.png",
+    "static/media/ga_icon.png": "/gl-hw-resume/static/media/ga_icon.51908fb0cc83d5e2717f.png",
+    "static/media/ts_icon.png": "/gl-hw-resume/static/media/ts_icon.af108db04a54d784da9b.png",
+    "index.html": "/gl-hw-resume/index.html",
+    "main.13c3995a.css.map": "/gl-hw-resume/static/css/main.13c3995a.css.map",
+    "main.cbf51464.js.map": "/gl-hw-resume/static/js/main.cbf51464.js.map",
+    "787.3b772499.chunk.js.map": "/gl-hw-resume/static/js/787.3b772499.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13c3995a.css",
+    "static/js/main.cbf51464.js"
+  ]
+}
